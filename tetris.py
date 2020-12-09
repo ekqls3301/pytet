@@ -78,7 +78,7 @@ class Tetris():
                     #continue
             print()
 
-    def deleteFullLines(self): # To be implemented!!
+    def deleteFullLines(self):
         if self.currBlk == None:
             return self.oScreen
   
